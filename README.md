@@ -7,13 +7,7 @@
       ">
   </a>
   
-  <img 
-    src="https://skillicons.dev/icons?i=js,cpp,py" 
-    alt="Skills" 
-    style="margin-top: 10px; width: 350px;
-  ">
-</div>
-
+  <br><br>
   <samp>
-    <br><img src="https://komarev.com/ghpvc/?username=insuperable">
+    <br><img src="https://komarev.com/ghpvc/?username=okitashu">
   </samp>
