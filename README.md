@@ -6,8 +6,7 @@
         style="width: 450px;
       ">
   </a>
-  
-  <br><br>
+  <br>
   <samp>
     <br><img src="https://komarev.com/ghpvc/?username=okitashu">
   </samp>
